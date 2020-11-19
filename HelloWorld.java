@@ -4,4 +4,7 @@ class HelloWorld{
   String name;
   int num;
   int xyz;
+  
+  HelloWorld(){
+  }
 ｝
